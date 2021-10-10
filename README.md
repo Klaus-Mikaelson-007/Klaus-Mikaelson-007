@@ -6,5 +6,5 @@
 
 My projects
 -----------
-◾Automatic Covid Data Collection : https://auto-covid-data-collection.herokuapp.com
-◾Report Generation Tool (Under Development)
+◾ Automatic Covid Data Collection : https://auto-covid-data-collection.herokuapp.com
+◾ Report Generation Tool (Under Development)
