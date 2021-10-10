@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aromal
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
+- 📫 How to reach me aromalasokan4@gmail.com
