@@ -6,4 +6,4 @@
 
 My projects
 -----------
--Automatic Covid Data Collection : https://auto-covid-data-collection.herokuapp.com/
+Automatic Covid Data Collection : https://auto-covid-data-collection.herokuapp.com/
