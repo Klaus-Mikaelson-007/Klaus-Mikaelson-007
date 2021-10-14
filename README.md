@@ -9,5 +9,5 @@ My projects
 ◾ Automatic Covid Data Collection : https://auto-covid-data-collection.herokuapp.com/  
 ◾ Report Generation Tool (Under Development)  
 ◾ Sentence Analysis Tool : https://klaus-mikaelson-007.github.io/sentenceAnalysisAI/  
-◾ Chat Application
+◾ Chat Application  
 ◾ Sentiment Analysis Tool : https://sentiment-analysis-app-007.herokuapp.com/
