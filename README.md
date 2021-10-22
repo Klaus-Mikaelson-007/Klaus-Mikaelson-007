@@ -13,3 +13,4 @@ My projects
 ◾ Sentiment Analysis Tool : https://sentiment-analysis-app-007.herokuapp.com/  
 ◾ Covid Vaccination Details Telegram Bot (Under Development).  
 ◾ Chatbot for Telegram (Under Development).  
+◾ Sentiment Analysis Bot for Telegram : https://t.me/Sentiment_Calculator_bot  
