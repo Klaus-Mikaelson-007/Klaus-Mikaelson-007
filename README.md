@@ -14,3 +14,4 @@ My projects
 ◾ Covid Vaccination Details Telegram Bot (Under Development).  
 ◾ Chatbot for Telegram (Under Development).  
 ◾ Sentiment Analysis Bot for Telegram : https://t.me/Sentiment_Calculator_bot  
+◾ Screen Recorder Desktop Application 
