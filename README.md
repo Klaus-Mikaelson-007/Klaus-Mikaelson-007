@@ -7,11 +7,12 @@
 My projects
 -----------
 ◾ Automatic Covid Data Collection : https://auto-covid-data-collection.herokuapp.com/  
-◾ Report Generation Tool (Under Development)  
 ◾ Sentence Analysis Tool : https://klaus-mikaelson-007.github.io/sentenceAnalysisAI/  
 ◾ Chat Application : https://github.com/Klaus-Mikaelson-007/nodejsChatApplication  
 ◾ Sentiment Analysis Tool : https://sentiment-analysis-app-007.herokuapp.com/  
-◾ Covid Vaccination Details Telegram Bot (Under Development).  
-◾ Chatbot for Telegram (Under Development).  
 ◾ Sentiment Analysis Bot for Telegram : https://t.me/Sentiment_Calculator_bot  
 ◾ Screen Recorder Desktop Application : https://drive.google.com/file/d/1jUMcw5isuXlfgd3zrC0V-5t6n_ltlsQT/view?usp=sharing  
+◾ Image Recognition Sytem using Tensorflow and Node.js : https://image-recognition-system.herokuapp.com/  
+◾ Report Generation Tool (Under Development)  
+◾ Covid Vaccination Details Telegram Bot (Under Development).  
+◾ Chatbot for Telegram (Under Development).  
