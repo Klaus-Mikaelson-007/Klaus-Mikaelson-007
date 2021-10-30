@@ -13,6 +13,7 @@ My projects
 ◾ Sentiment Analysis Bot for Telegram : https://t.me/Sentiment_Calculator_bot  
 ◾ Screen Recorder Desktop Application : https://drive.google.com/drive/folders/1-sHFopVKnojmeTzLsKPFBrMBYPOJQPcg  
 ◾ Image Recognition Sytem using Tensorflow and Node.js : https://image-recognition-system.herokuapp.com/  
+◾ Dictionary Extension for Google Chrome Web Browser   
 ◾ Report Generation Tool (Under Development)  
 ◾ Covid Vaccination Details Telegram Bot (Under Development).  
 ◾ Chatbot for Telegram (Under Development).  
