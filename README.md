@@ -17,3 +17,8 @@ My projects
 ◾ Report Generation Tool (Under Development)  
 ◾ Covid Vaccination Details Telegram Bot (Under Development).  
 ◾ Chatbot for Telegram (Under Development).  
+
+Games
+------
+◾ Flappy bird clone (Python).  
+◾ Space invaders clone (Python).  
